@@ -2,7 +2,7 @@
 //  BeaconDetectorApp.swift
 //  BeaconDetector
 //
-//  Created by Shunji Sakaue on 2022/10/16.
+//  Created by S.S on 2022/10/16.
 //
 
 import SwiftUI
