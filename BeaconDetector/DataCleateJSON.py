@@ -40,7 +40,7 @@ def data_create_json(userId, beaconId, rssiValue, rssiAdd, dateValue, secCount, 
 
 
 if __name__ == "__main__":
-    userId = "U001"         # ユーザID
+    userId = "U002"         # ユーザID
     beaconId = "B001"       # Beacon ID
     rssiValue = -30         # rssi start
     rssiAdd = -3            # next add rssi
